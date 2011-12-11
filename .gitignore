@@ -1,0 +1,5 @@
+build/
+bin/*.app
+bin/data/movies/*.mov
+*.DS_Store
+
